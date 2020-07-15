@@ -1,3 +1,3 @@
 function show(){
-    alert("您好")
+    alert("您好");
 }
