@@ -1,1 +1,3 @@
-index.html
+function show(){
+    alert("您好")
+}
